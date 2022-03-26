@@ -1,0 +1,41 @@
+{
+"http": "api.live.bilibili.com/xlive/general-interface/v2/ichiban-kuji/get-pool-list?",
+"date": {
+"main_id": "9",
+"start_pool_id": "1",
+"pool_type_id": "18"
+},
+"gift": [
+{
+"gift_level": "SS",
+"gift_ID": 31294,
+"gift_name": "冰晶城堡",
+"gift_money": 450
+},
+{
+"gift_level": "S",
+"gift_ID": 31091,
+"gift_name": "天空之翼",
+"gift_money": 100
+},
+{
+"gift_level": "A",
+"gift_ID": 31313,
+"gift_name": "喵大人",
+"gift_money": 52
+},
+{
+"gift_level": "B",
+"gift_ID": 31314,
+"gift_name": "小精灵",
+"gift_money": 5.2
+},
+{
+"gift_level": "C",
+"gift_ID": 30686,
+"gift_name": "逗猫棒",
+"gift_money": 1
+}
+],
+"FD_money": 30
+}
